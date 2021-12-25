@@ -7,6 +7,14 @@
 
 // document.querySelector('#container').innerHTML = data
 
-import('profile/index').then(res => {
-  console.log(res)
-})
+// import('profile/index').then(res => {
+//   console.log(res)
+// })
+
+// import('cart/index').then(data => {
+//   console.log(data)
+// })
+
+import('./bootstrap.js')
+
+
